@@ -22,3 +22,17 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# Results
+> 使用 `pytorch` 
+
+
+- Pytorch version: 1.8.1+cuda102
+
+|  Tasks  | Train Acc | Test Acc |
+| :-----: | :-------: | :------: |
+| **Q1**  |   97.47%  |  88.20%  |
+| **Q2**  |   81.87%  |  82.00%  |
+| **Q3**  |   97.97%  |  84.90%  |
+| **Q4**  |   94.67%  |  87.70%  |
+| **Q5**  |   99.51%  |  98.84%  |
